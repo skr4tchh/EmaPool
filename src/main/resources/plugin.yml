@@ -1,0 +1,5 @@
+name: EmaPool
+version: '${version}'
+main: ru.tapemc.emapool.EmaPool
+api-version: '1.20'
+depend: [WorldGuard, WorldGuardEvents, PlayerPoints]
